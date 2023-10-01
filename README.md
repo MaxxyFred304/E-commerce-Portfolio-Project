@@ -18,7 +18,7 @@ This project is an e-commerce website developed using Python Flask for the backe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-e-commerce-project.git
+    git clone https://github.com/MaxxyFred304/your-e-commerce-project.git
     ```
 
 2. Install dependencies:
